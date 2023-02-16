@@ -1,6 +1,5 @@
 class User 
-    @knowledge = []
-    attr_accessor :first_name, :last_name
+     attr_accessor :first_name, :last_name
     # first_name
     # setter method
     def first_name=(first_name)
